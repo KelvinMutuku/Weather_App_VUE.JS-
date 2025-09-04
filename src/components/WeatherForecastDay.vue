@@ -1,6 +1,6 @@
 <script setup>
 defineProps({
-  day: Object,
+  day: Object
 })
 </script>
 
