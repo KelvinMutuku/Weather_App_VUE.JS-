@@ -1,3 +1,6 @@
+<script setup>
+import searchinput from './components/searchinput.vue'
+</script>
 <template>
   <main>
     <!-- Date -->
@@ -13,6 +16,7 @@
     </div>
     <div>
       <!-- Search -->
+      <searchinput />
     </div>
   </main>
 </template>
