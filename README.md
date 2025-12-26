@@ -23,7 +23,7 @@ A sleek, real-time weather application built with Vue 3 and Vite, styled with Ta
 
 1. **Clone the repository:**
 ```sh
-git clone https://github.com/your-username/weather_app_vue.js.git
+git clone https://github.com/kelvinmutuku/weather_app_vue.js.git
 cd weather_app_vue.js
 
 ```
