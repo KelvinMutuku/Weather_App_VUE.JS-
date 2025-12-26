@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue'
-import SearchInput from './components/SearchInput.vue'
+import SearchInput from './components/searchinput.vue'
 import WeatherCard from './components/WeatherCard.vue'
 
 const places = ref([])
